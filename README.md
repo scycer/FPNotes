@@ -19,7 +19,7 @@
 	 - Boolean 
 	 - Number (show it's limitations)
 	 - String 
- - Don't User
+ - Don't Use
 	 - Null 
 	 - Undefined 
 	 - Symbol (new in ECMAScript 6)
@@ -36,6 +36,7 @@
 		 - JSON
  - Don't Use
 	 - Classes
+	 
 ## Other
 	 - Promise
 	 - Generator
